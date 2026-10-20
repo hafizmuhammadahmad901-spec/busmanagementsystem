@@ -132,6 +132,6 @@ All data is automatically loaded from and saved to persistent text files:
 - [ ] Implement PDF ticket generation with QR code verification.
 ---
 ## 👤 Author
-Developed with ❤️ by HAFIZ MUHAMMAD AHMAD  
+Developed with  by HAFIZ MUHAMMAD AHMAD  
 - GitHub: https://github.com/hafizmuhammadahmad901-spec/busmanagementsystem  
 - LinkedIn: https://www.linkedin.com/in/hafiz-muhammad-ahmad-a713673b7/
